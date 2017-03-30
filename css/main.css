@@ -37,3 +37,7 @@ th {
   border-top: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
 }
+
+.caption {
+  border-radius: #f2f2f2;
+}
