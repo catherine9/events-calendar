@@ -14,21 +14,12 @@ html {
   box-sizing: inherit;
 }
 
-main {
-  background-color: #f2f2f2;
-}
-
 tbody th {
   font-weight: normal;
-  font-style: italic;
 }
 
 tfoot {
   font-weight: bold;
-}
-
-tbody tr:nth-child(odd) {
-  background-color: #e2e2e2;
 }
 
 table {
@@ -42,4 +33,7 @@ td {
   border-bottom: 1px solid #ccc;
 }
 
+th {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
 }
