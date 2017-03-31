@@ -13,27 +13,27 @@ html {
   box-sizing: inherit;
 }
 
-table, td, th{
+table, td, th {
   border: 1px solid #ccc;
 }
 
-table {
+td {
   height: 180px;
 }
 
-.caption-red {
+.content-red {
   color: #51063f;
   background-color: #f2bcbc;
   border-radius: 2px;
 }
 
-.caption-green {
+.content-green {
   background-color: #d1e0bf;
   color: #6b7e54;
   border-radius: 2px;
 }
 
-.caption-blue {
+.content-blue {
   color: #38448e;
   background-color: #d2d6f0;
   border-radius: 2px;
