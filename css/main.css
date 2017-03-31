@@ -52,3 +52,10 @@ td {
   border-radius: 3px;
   border-color: #51603f;
 }
+
+.special-greeny {
+  border-radius: 3px;
+  border-color: #991919;
+  background-color: #b92828;
+  color: #666;
+}
