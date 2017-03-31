@@ -13,20 +13,12 @@ html {
   box-sizing: inherit;
 }
 
+table, td, th{
+  border: 1px solid #ccc;
+}
+
 table {
-  max-width: 50em;
-  border-collapse: collapse;
-}
-
-td {
-  height: 9.8rem;
-  border-top: 1px solid #ccc;
-  border-bottom: 1px solid #ccc;
-}
-
-th {
-  border-top: 1px solid #ccc;
-  border-bottom: 1px solid #ccc;
+  height: 180px;
 }
 
 .caption-red {
