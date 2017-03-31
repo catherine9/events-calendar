@@ -38,6 +38,20 @@ th {
   border-bottom: 1px solid #ccc;
 }
 
-.caption {
-  border-radius: #f2f2f2;
+.caption-red {
+  color: #51063f;
+  background-color: #f2bcbc;
+  border-radius: 2px;
+}
+
+.caption-green {
+  background-color: #d1e0bf;
+  color: #6b7e54;
+  border-radius: 2px;
+}
+
+.caption-blue {
+  color: #38448e;
+  background-color: #d2d6f0;
+  border-radius: 2px;
 }
